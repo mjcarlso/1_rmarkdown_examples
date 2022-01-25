@@ -116,7 +116,7 @@ todays date, not just a static date you enter.
 9) Bonus, create an "index_talk.Rmd" version of your document using the
 `revealjs` package. Add link to your original report-style document. 
 
-
+ 
 
 
 ## DyGraph example. 
@@ -132,5 +132,6 @@ dygraph(q_xts) %>%
 
 ## Poudre Paragraph
 
+The **Cache la Poudre River**
 **bold** *italicized* **bold**
 
