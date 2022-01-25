@@ -132,6 +132,5 @@ dygraph(q_xts) %>%
 
 ## Poudre Paragraph
 
-The **Cache la Poudre River**
-**bold** *italicized* **bold**
+The **Cache la Poudre River** is a Colorado river that has headwaters in Rocky Mountain National park and flows 126 miles then into the **South Platte River**. It is great for tourists and [recreation](https://www.visitftcollins.com/things-to-do/parks-open-spaces/cache-la-poudre-river/) due to its proximity to Fort Collins. It also is home to one of the 55 [National Heritage Areas](https://www.nps.gov/places/cache-la-poudre-river-national-heritage-area.htm) in the US. The Poudre is known for being Colorado's only *Wild and Scenic Rivers* as well as having high quality drinking [water](https://www.poudrewatershed.org/cache-la-poudre-watershed#:~:text=High%20quality%20drinking%20water&text=The%20City%20of%20Fort%20Collins,watershed%20is%20high%20severity%20wildfire.).
 
