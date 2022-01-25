@@ -30,7 +30,7 @@ The Poudre River at Lincoln Bridge is:
   
   - Near an open space area and the Poudre River Trail
   
-  - **Downstream of many agricultral diversions**
+  - **Downstream of many agricultural diversions**
 
 
 # SiteDescription
@@ -121,8 +121,16 @@ todays date, not just a static date you enter.
 
 ## DyGraph example. 
 
+```{r}
+
+dygraph(q_xts) %>%
+  dyAxis("y", label = "Discharge (cfs)")%>%
+  dyOptions(drawPoint=T, pointSize = 2)
+
+```
+
 
 ## Poudre Paragraph
 
-
+**bold** *italicized* **bold**
 
